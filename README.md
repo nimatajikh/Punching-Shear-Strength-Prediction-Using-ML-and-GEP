@@ -1,6 +1,6 @@
 # **Punching-Shear-Strength-Prediction-Using-ML-and-GEP**
 
-This repository contains the source code, dataset, and simulation results used in the study: “Integrating Machine Learning and Genetic Expression Programming for Enhanced Punching Shear Strength Prediction”
+This repository contains the source code, dataset, and simulation results used in the study: “Integrating machine learning and genetic expression programming for enhanced punching shear strength prediction”
 
 # **Overview**
 
