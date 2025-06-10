@@ -16,13 +16,13 @@ This project demonstrates how integrating ML and GEP can provide more accurate a
 
 # **Contents**
 
-notebooks: Jupyter notebooks for model training, tuning, and evaluation.
+Notebooks: Jupyter notebooks for model training, tuning, and evaluation.
 
-data: Preprocessed experimental dataset.
+Data: Preprocessed experimental dataset.
 
-models: Scripts and saved models for ML, DL, and GEP.
+Models: Scripts and saved models for ML, DL, and GEP.
 
-results: Performance plots, SHAP analysis, and equation derivations.
+Results: Performance plots, SHAP analysis, and equation derivations.
 
 # **Requirements**
 
