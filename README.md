@@ -35,4 +35,4 @@ This project is shared for academic and research purposes. Please cite the assoc
 
 Paper: Integrating Machine Learning and Genetic Expression Programming for Enhanced Punching Shear Strength Prediction
 
-DOI: 10.22059/ceij.2024.380171.2118 
+DOI:  https://doi.org/10.22059/ceij.2024.380171.2118   
